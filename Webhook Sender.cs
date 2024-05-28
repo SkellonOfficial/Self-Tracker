@@ -51,8 +51,8 @@ namespace SelfTracker.Background
                 }
             }
         }
-        static string webHookURL = "nuh uh";
-        static string LoggerURL = "N/A";
+        static string webHookURL = "nuh uh"; /// put your webhook here
+        static string LoggerURL = "N/A"; /// if you need to log stuff
         static bool Log = false;
     }
 }
