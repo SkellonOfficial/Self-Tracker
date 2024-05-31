@@ -2,7 +2,7 @@
 
 namespace SelfTracker.Background
 {
-    public static class TheLoader
+    public static class TheLoader /// use this for SMI
     {
         public static void Load()
         {
